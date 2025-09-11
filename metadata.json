@@ -1,0 +1,5 @@
+{
+  "name": "GNT INDIA School Management System",
+  "description": "A comprehensive school management dashboard to handle student records, fees, attendance, and results, with integrated WhatsApp notifications. Designed for easy administration and parent communication.",
+  "requestFramePermissions": []
+}
